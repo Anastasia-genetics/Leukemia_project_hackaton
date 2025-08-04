@@ -157,6 +157,6 @@
 
 Елена Платонова, врач-кардиолог (GitHub: Plat9ev, email:drplatosha@gmail.com)
 
-Виталий Хижа, врач (GitHub: KhizhaVitaly, email:)
+Виталий Хижа, биохимик (GitHub: KhizhaVitaly, email:)
 
 Все авторы внесли равнозначный вклад в проект.
