@@ -151,7 +151,7 @@
 
 Максим Ушаков, врач (GitHub: AJinn1, email:)
 
-Татьяна Ермакова, врач-педиатр (GitHub: Tatianaremak, email: )
+Татьяна Ермакова, врач-педиатр (GitHub: Tatianaremak, email:ermackowatatiana2016@yandex.ru)
 
 Анастасия Шнырева, к.б.н., биолог, молекулярный генетик (GitHub: Anastasia-genetics, email:shnirevaa@mail.ru)
 
