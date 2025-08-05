@@ -151,7 +151,7 @@
 
 Анастасия Чухонцева, врач-педиатр (GitHub: AsnastasiiaChukhontseva, email:asenka2503@gmail.com)
 
-Максим Ушаков, врач (GitHub: AJinn1, email:)
+Максим Ушаков, врач-терапевт (GitHub: AJinn1)
 
 Татьяна Ермакова, врач-педиатр (GitHub: Tatianaremak, email:ermackowatatiana2016@yandex.ru)
 
@@ -159,6 +159,6 @@
 
 Елена Платонова, врач-кардиолог (GitHub: Plat9ev, email:drplatosha@gmail.com)
 
-Виталий Хижа, научный сотрудник, биохимик (GitHub: KhizhaVitaly, email:)
+Виталий Хижа, научный сотрудник, биохимик (GitHub: KhizhaVitaly)
 
 Все авторы внесли равнозначный вклад в проект.
